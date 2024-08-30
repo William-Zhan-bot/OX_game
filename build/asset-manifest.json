@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f72fc738.css",
+    "main.js": "/static/js/main.e64b898e.js",
+    "static/media/cross-removebg-preview.png": "/static/media/cross-removebg-preview.9b8c1ec2ba448f13c305.png",
+    "static/media/naughts-removebg-preview.png": "/static/media/naughts-removebg-preview.7f2a5c41ea726b77c6ae.png",
+    "index.html": "/index.html",
+    "main.f72fc738.css.map": "/static/css/main.f72fc738.css.map",
+    "main.e64b898e.js.map": "/static/js/main.e64b898e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f72fc738.css",
+    "static/js/main.e64b898e.js"
+  ]
+}

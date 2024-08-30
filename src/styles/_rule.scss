@@ -1,0 +1,33 @@
+div.Talkbox {
+  background-color: rgb(117, 160, 236);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  width: 600px;
+  height: 70px;
+  border-radius: 3%;
+
+  // flex
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  // 邊界
+  margin: 1rem 0rem;
+}
+
+div.Word {
+  font-size: 18px;
+}
+
+// 重啟按鈕
+button.restart {
+  font-size: 18px;
+  padding: 0.5rem;
+  border-radius: 5%;
+  background-color: rgba(153, 43, 232, 0.856);
+  color: white;
+  border-width: 0px;
+  &:hover {
+    cursor: pointer;
+  }
+}

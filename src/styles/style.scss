@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+}
+
+// 全域變數
+$bgcolor: rgb(239, 238, 179);
+div.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  align-items: center;
+  background-color: $bgcolor;
+
+  height: 100vh;
+}
+
+// 其他sass
+@import "./gp";
+@import "./rule";
+@import "./start";
+@import "./winner";
